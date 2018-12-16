@@ -1,0 +1,91 @@
+%YAML 1.1
+---
+actions:
+- utter_greeting
+- utter_tanya_jurusan
+- utter_tanya_matkul
+- utter_restart
+- utter_pilih_si
+- utter_pilih_ti
+- utter_fallback
+- utter_again
+- action_jurusan
+- action_restart
+- action_fallback
+config:
+  store_entities_as_slots: true
+entities:
+- jurusan
+- name
+- matkul
+- kode_matkul
+- sks
+- semester
+- studi_matkul
+- topik_matkul
+- software_matkul
+intents:
+- greeting:
+    use_entities: true
+- tanya_jurusan:
+    use_entities: true
+- tanya_matkul:
+    use_entities: true
+- hasil:
+    use_entities: true
+- fallback:
+    use_entities: true
+slots:
+  jurusan:
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - informatika
+    - sistem informasi
+  kode_matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  name:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  semester:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  sks:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  software_matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  studi_matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  topik_matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_fallback:
+  - text: Maaf, informasi yang ada cari salah atau tidak ada...
+  utter_greeting:
+  - text: Hai {name}!
+  utter_hasil:
+  - text: 'Kode Matakuliah : {kode_matkul}, Matakuliah : {matkul}, SKS : {sks}, Semester
+      : {semester}, Studi Matakuliah : {studi_matkul}, Topik Matakuliah : {topik_matkul},
+      Software Matakuliah : {topik_matkul}.'
+  utter_pilih_si:
+  - text: Anda memilih jurusan Sistem Informasi
+  utter_pilih_ti:
+  - text: Anda memilih jurusan Informatika
+  utter_restart:
+  - text: Apakah anda ingin mencari informasi mata kuliah yang lain? (Ketik Iyaa /
+      Tidak)
+  utter_tanya_jurusan:
+  - text: Saya GinoBot. Saya bisa membantu dalam pencarian informasi mata kuliah yang
+      ada di Fakultas Teknologi Komunikasi dan Informatika, Universitas Nasional.
+      Silahkan pilih jurusan / program studi yang ada ambil saat ini.
+  utter_tanya_matkul:
+  - text: Terima kasih! Sekarang anda bisa mencari informasi mata kuliah yang anda
+      ingin cari dengan mengetik program mata kuliah tersebut.

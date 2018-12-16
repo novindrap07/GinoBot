@@ -1,0 +1,88 @@
+Kode Mata Kuliah;Mata Kuliah;SKS;Semester;Informasi Mata Kuliah;Topik Mata Kuliah;Software
+1708030206;Kalkulus I;2;Ganjil;Studi mengenai matematika dasar pada komputasi.;"Limit, Integral dimensi 1, Persamaan non linier.";-
+1708030209;Fisika Dasar;2;Ganjil;Studi tentang dasar – dasar fisika pada komputasi.;"Rangkaian paralel dan seri, looping, dasar biner.";-
+1708030217;Praktikum Fisika Dasar;1;Ganjil;Studi tentang dasar – dasar fisika pada komputasi.;"Rangkaian paralel dan seri, looping, dasar biner.";-
+1700000101;Pendidikan Kewarnegaraan;2;Ganjil;Sebuah ilmu atau studi mengenai tugas dan kewajiban pemerintahan serta hak dan kewajiban seorang warga negara.;"Hak dan kewajiban warga negaranya, jati diri atau identitas bangsa dan negara, konstitusi negara.";-
+1708030201;Algoritma dan Pemrograman I;2;Ganjil;Studi tentang dasar pada pemrograman dan logika pemrograman.;"Dasar Logika Pemrograman, Bahasa Pemrograman C++";
+1708030215;Praktikum Algoritma dan Pemrograman I;1;Ganjil;Studi tentang dasar pada pemrograman dan logika pemrograman.;"Dasar Logika Pemrograman, Bahasa Pemrograman C++";"Dev  C++, Turbo C++"
+1708030214;Pengantar Teknologi Komunikasi dan Informatika;2;Ganjil;Studi mengenai pengantar teknologi sebagai dasar – dasar teknologi.;"Dasar software dan hardware, implementasi dalam kehidupan sehari – hari.";-
+1700000102;Bahasa Indonesia;2;Ganjil;Studi mengenai ilmu bahasa yang dimana dapat mendorong mahasiswa menggunakan bahasa yang sesuai dengan kaidah dan norma yang berlaku.;"Sejarah bahasa indonesia, komunikasi lisan dan kalimat induktif.";-
+1708030203;Aljabar Linier;2;Ganjil;Studi tentang pemahaman lanjut pada matematika komputasi.;"Matriks, Persamaan linier.";-
+1708020101;Bahasa Inggris Informatika;2;Ganjil;Studi tentang ilmu bahasa inggris pada konteks keilmuan informatika.;"Tenses, dasar bahasa informatika, studi kasus dalam teknologi.";-
+1708030207;Kalkulus II;2;Genap;Studi tentang pemahaman lanjut pada matematika komputasi.;"Persamaan linier, integral 2 & 3 dimensi, Matematika turunun.";-
+1708030202;Algoritma dan Pemrograman II;2;Genap;Studi tentang pemahaman lanjut pada pemrograman dan logika pemrograman.;"Bahasa pemrograman C#, Dasar pemrograman orientasi objek.";
+1708030216;Praktikum Algoritma dan Pemrograman II;1;Genap;Studi tentang pemahaman lanjut pada pemrograman dan logika pemrograman.;"Bahasa pemrograman C#, Dasar pemrograman orientasi objek.";Microsoft Visual Studio
+1708030220;Statistika dan Probabilitas;2;Genap;Studi mengenai ilmu statistika dan dasar perhitungan pada penerapan teknologi.;"Mean, median, modus.";-
+1708030211;Matematika Diskrit;2;Genap;Studi mengenai dasar – dasar matematika teknologi.;"Aritmatika, Peluang, Himpunan.";-
+1708030221;Struktur Data dan Algoritma;2;Genap;Studi tentang analisa struktur pemrograman dan dasar algoritma pada pemrograman.;"Dasar algoritma, stack and queue.";-
+1708030219;Praktikum Struktur Data dan Algoritma;1;Genap;Studi tentang analisa struktur pemrograman dan dasar algoritma pada pemrograman.;"Dasar algoritma, stack and queue.";-
+1708030213;Sistem Digital;2;Genap;Studi tentang pemahaman lanjut dalam ilmu fisika dasar yang berbasis digital.;Konversi bahasa mesin.;-
+1708030218;Praktikum Sistem Digital;1;Genap;Studi tentang pemahaman lanjut dalam ilmu fisika dasar yang berbasis digital.;Konversi bahasa mesin.;-
+1708020346;Pemrograman Visual;2;Genap;Studi tentang pemahaman lanjut pada pemrograman dan logika pemrograman secara visual.;"Pengenalan pemrograman visual .net 2010, logika pemrograman berbasis visual.";-
+1708020347;Praktikum Pemrograman Visual;1;Genap;Studi tentang pemahaman lanjut pada pemrograman dan logika pemrograman secara visual.;"Pengenalan pemrograman visual .net 2010, logika pemrograman berbasis visual.";Microsoft Visual Studio
+1708030502;Komputer dan Masyarakat;3;Genap;Studi mengenai sosialisasi dalam bemasyarakat dilingkungan sekitar melalui jaringan teknologi.;"Isu - isu sosial dalam pandangan terkini, Ruang lingkup masyarakat teknologi.";-
+1700000103;Pendidikan Agama;2;Ganjil;Studi mengenai ilmu kerohanian dimana dapat membangun keimanan dan ketaqwaan kepada Tuhan Yang Maha Esa.;"Pengantar rukun iman dan islam, pengabdian masyarakat.";-
+1708030210;Logika Informatika;2;Ganjil;Studi tentang perhitungan dan pemahaman argumentasi pada pemrograman.;Logika or dan and pada pemrograman dan matematka informatika.;-
+1708030309;Arsitektur dan Organisasi Komputer;3;Ganjil;Studi tentang pendalaman arsitektur dan pembangunan pada suatu perangkat komputer.;"Sejarah perkembangan komputer, arsitektur pada komputer.";-
+1708030327;Basis Data;4;Ganjil;Studi mengenai susunan / kumpulan data operasional lengkap dari suatu organisasi dan disimpan secara terintegrasi yang mampu menyediakan informasi secara optimal.;"Data manipulation (DML), Data Definition (DDL), Data Control (DCL)";-
+1708020348;Sistem Operasi;2;Ganjil;Studi tentang perangkat lunak operasi pada suatu sistem dimana mengetahui dasar dan perintah pada sistem operasi.;"Dasar dan teori pada sistem operasi, sinkronisasi, jadwal proses.";-
+1708020349;Praktikum Sistem Operasi;1;Ganjil;Studi tentang perangkat lunak operasi pada suatu sistem dimana mengetahui dasar dan perintah pada sistem operasi.;"Dasar syntax pada os linux, syntax lanjut pada os linux.";"Virtual Box, Linux OS"
+1708030318;Perancangan dan Analisa Algoritma;2;Ganjil;Studi mengenai perhitungan algoritma pada logika pemrograman;"Dasar – dasar algoritma, teknik dasar algoritma.";-
+1708030303;E-Business;2;Ganjil;Studi tentang rancang bangun aplikasi bisnis dan tata kelola bisnis elektronik.;"Teori dasar pada E – Business, Tata kelola online shop.";-
+1708030320;Praktikum E-Business;1;Ganjil;Studi tentang rancang bangun aplikasi bisnis dan tata kelola bisnis elektronik.;"Teori dasar pada E – Business, Tata kelola online shop.";"XAMPP, Prestashop"
+1700000109;Pancasila;2;Ganjil;Studi mengenai dasar dan norma pada pancasila dan etika bela negara.;"Sejarah UUD 1945, Arti dalam pada Pancasila.";-
+1708020317;Pemrograman Berorientasi Objek;2;Genap;Studi tentang pemahaman lanjut pada pemrograman dan logika pemrograman secara objektif.;"Pengenalan pemrograman berorientasi objek, bahasa pemrograman java";-
+1708020318;Praktikum Pemrograman Berorientasi Objek;1;Genap;Studi tentang pemahaman lanjut pada pemrograman dan logika pemrograman secara objektif.;"Pengenalan pemrograman berorientasi objek, bahasa pemrograman java";Netbeans
+1708030305;Interaksi Manusia dan Komputer;3;Genap;Studi mengenai dasar dan teori interkasi dan komunikasi berbasis teknologi komputer.;Prinsip dasar pendekatan antara manusia dengan komputer.;-
+1708030212;Metode Numerik;3;Genap;Studi tentang pendalaman pada matematika komputasi numerik.;"Integrasi numerik, biseksi.";-
+1708030302;Bahasa dan Automata;3;Genap;Studi mengenai pendalaman pada logika dan argumentasi dalam pemrograman.;Dasar turunan pada pemrograman.;-
+1708030208;Komunikasi Data dan Jaringan Komputer;4;Genap;Studi tentang manajemen data dan distribusi data pada komputer.;"Sejarah perkembangan transmisi data, pengaplikasian pada kehidupan sehari – hari.";-
+1708030316;Pengelolaan Instalasi Komputer;2;Genap;Studi tentang pendalaman perangkat – perangkat keras pada komputer dan kegunaannya masing – masing.;"Prinsip kerja pada komputer, tata cara perakitan pada komputer.";-
+1708030325;Praktikum Pengelolaan Instalasi Komputer;1;Genap;Studi tentang pendalaman perangkat – perangkat keras pada komputer dan kegunaannya masing – masing.;"Prinsip kerja pada komputer, tata cara perakitan pada komputer.";-
+1708030310;Pemrograman Bergerak;2;Genap;Studi tentang dasar – dasar pemroraman berbasis mobile.;"Dasar – dasar pemrograman pada aplikasi berbasis mobile, logika  dasar pemrograman pada aplikasi mobile.";"Android Studio, Eclipse"
+1708030330;Teknik Kompilasi;3;Ganjil;Studi mengenai dasar – dasar dan teknik perhitungan komputasi.;"Pembelajaran bahasa mesin, teknik dasar penggunaan dalam bahasa mesin.";-
+1708030329;Teknik Riset Operasional;4;Ganjil;Studi mengenai riset lanjut tentang ilmu statistika mengenai operasional.;Dasar perbandingan antara white box testig dan black box testing. Prinsip dan tujuan pada percobaan aplikasi.;-
+1708030313;Pemrograman Multimedia;2;Ganjil;"Studi tentang desain, aspek, dan animasi pada pemrograman berbasis multimedia.";Penggunaan Adobe Illustrator dalam pembuatan animasi.;-
+1708030322;Praktikum Pemrograman Multimedia;1;Ganjil;"Studi tentang desain, aspek, dan animasi pada pemrograman berbasis multimedia.";Penggunaan Adobe Illustrator dalam pembuatan animasi.;"Autodesk 3D Max, Corel Draw"
+1708030301;Algoritma Pararel;2;Ganjil;Studi mengenai pemahaman lanjut matematika pemrograman.;"Kebutuhan dan pengolahan paralel, notasi paralel, PRAM.";-
+1708030304;Grafik Komputer;3;Ganjil;Studi tentang perancangan desain grafik komputer berbasis pemrograman.;Dasar – dasar pemrograman pada komputer berbasis grafik.;Processing
+1708030306;Kecerdasan Buatan dan Logika Fuzzy;2;Ganjil;Studi tentang penjabaran logika dalam sebuah komputasi buatan.;"Logika fuzzy, implementasi algoritma fuzzy.";Matlab
+1700000107;Kewirausahaan;2;Ganjil;Studi tentang ilmu bisnis dan wirausaha.;"Role model wirausahawan, business design.";-
+1700000104;Olahraga/Seni;2;Ganjil;"Studi tentang dasar, teori, dan filosofi ilmu keolahragaan dan kesenian.";"Filsafat olahraga, ontologi, aksiologi, epistimologi.";-
+1700000105;Konservasi Alam dan Lingkungan;2;Ganjil;Studi tentang ilmu pengetahuan alam dan lingkugan pada lingkungan.;"Ruang lingkup konservasi sumber daya alam dan lingkungan, Sumber daya alam dalam lingkungan hidup dalam konteks pembangunan wilayah dan kawasan.";-
+1700000106;Pendidikan Anti Korupsi;2;Ganjil;Studi mengenai ilmu hukum pada penindakan korupsi.;"Pengertian Korupsi, Faktor Penyebab Korupsi, Peran Mahasiswa dalam Gerakan Antikorupsi.";-
+1708020501;Etika Profesi Teknologi Informasi;2;Genap;Studi tentang kaidah dan norma perilaku seorang IT pada dunia kerja.;"Pengenalan etika IT pada dunia kerja, studi kasus pada dunia IT.";-
+1708030315;Pemrograman Web;2;Genap;Studi mengenai struktur dasar dan pengembangan pada web.;"Definis web, dasar HTML dan CSS.";-
+1708030324;Praktikum Pemrograman Web;1;Genap;Studi mengenai struktur dasar dan pengembangan pada web.;"Definis web, dasar HTML dan CSS.";Sublime Text 3 / Visual Codes/ Adobe Dreamweaver
+1708030222;Teknik Simulasi dan Permodelan;3;Genap;Studi tentang pengujian dalam perhitungan pemrograman.;Dasar dan simulasi program dengan bahasa C.;-
+;Rekayasa Perangkat Lunak;4;Genap;Studi mengenai perancangan pada perangkat lunak pada sistem informasi.;Prinsip perkembangan software pada umumnya.;-
+1708030308;Metodologi Penelitian Teknologi Informasi;3;Genap;Studi mengenai kaidah – kaidah pada penelitian dan susunan metode pada teknologi informasi.;"Panduan pemilihan jurnal, tata cara penelitian.";-
+1708030317;Pengolahan Citra;2;Genap;Studi tentang pengukuran dan perhitungan dalam media berbentuk pemrograman.;"Citra 2 Dimensi, Teknik penghilangan noise pada gambar, Citra biner, Pengenalan pola.";Matlab
+1700000108;TOEFL/Bahasa Inggris;2;Ganjil;Studi tentang ilmu bahasa inggris dan persiapan pada tes TOEFL.;"Spelling, TOEFL Topic, Reading,  English Conversation.";-
+1708030307;Manajemen Proyek Teknologi Informasi;2;Ganjil;Studi mengenai manajemen dan perancangan sistem informasi pada proyek berbasis teknologi.;"Dasar kerja pada proyek berbasis teknologi, manajemen pada proyek berbasis teknologi.";Microsoft Office Project
+1708020205;Sistem Terdistribusi;3;Ganjil;Studi tentang teori dasar da perancangan lanjut pada pendistribusian suatu data.;Prinsip dasar pendistribusian data pada jaringan komputer.;-
+1708020502;Keterampilan Berkomunikasi;2;Ganjil;Studi mengenai tata cara berkomunikasi dan penyampaian pesan secara efektif.;"Studi tentang pencarian jati diri, studi kerja kelompok pada proyek.";-
+1708030402;Kerja Praktek;2;Ganjil;-;-;-
+1708030403;Tugas Akhir;6;Ganjil;-;-;-
+1708030616;Teknologi Multimedia;2;Genap;Studi mengenai pengantaran dari desain grafis multimedia dan pendalaman perangakat desain multimedia.;"Standar dan sistem komunikasi multimedia, teknologi telekonfrensi dan video broadcasting.";"Autodesk 3D Max, Adobe Photoshop, Adobe Illustrator."
+1708030614;Sistem Informasi Geografis;2;Genap;Studi mengenai ilmu geografis dalam sistem berbasis komputasi.;"Penggunaan aplikasi MapInfo, Sistem pemetaan.";MapInfo
+1708030312;Pemrograman Game;2;Genap;Studi tentang pemahaman dan perkembangan dalam game.;"Storyline, desain animasi 3D.";Unity
+1708030607;Keamanan Jaringan Komputer;2;Genap;Studi tentang pendalaman sekuritas pada jaringan komputer.;"Pengertian cybercrime, dasar - dasar enkripsi dan dekripsi";-
+1708030606;Jaringan Nirkabel dan Komputasi Bergerak;2;Genap;Studi mengenai pemahaman lanjut pada perangkat jaringan nirkabel.;"Konfigurasi jaringan pada sebuah perangkat nirkabel, Desain bangun jaringan nirkabel.";-
+1708030608;Komunikasi Serat Optik;2;Genap;Studi tentang penggunaan fiber optik pada perangkat jaringan.;"Pengertian kabel optik, cahaya, dan struktur kabel.";-
+1708030602;Cloud Computing;2;Genap;Studi mengenai pemanfaatan teknologi komputasi dan pengembangan internet berbasis awan.;"Services cloud computing, Implementasi cloud computing di era sekarang.";-
+1708030609;Kriptografi;2;Genap;Studi tentang ilmu konversi komunikasi yang dimana bertujuan dalam kerahasiaan suatu data.;"Teknik enkripsi dan dekripsi, hacking defending.";-
+1708030612;Desain Sistem Berorientasi Objek;2;Genap;Studi mengenai perancangan sistem informasi berbasis objek.;"Dasar penggunaan sistem berbasis objek, studi kasus dalam sistem berorientasi objek.";"IBM Rational Rose, Star UML"
+1708030613;Sistem Berbasis Pengetahuan dan Sistem Cerdas;2;Genap;Studi mengenai dasar – dasar informasi berbasis pengetahuan dan perkembangan teknologi informasi.;"Dasar dari sistem berbasis pengetahuan, fungsi dan implementasi AI berbasis pengentahuan.";-
+1708030615;Sistem Jaringan Syaraf Tiruan;2;Genap;Studi mengenai pemahaman mengenai syaraf tiruan berbasis matematika komputasi;"Pengertian jaringan syaraf tiruan, Karakteristik jaringan syaraf tiruan, Implementasi dan metode / algoritma pada jaringan syaraf tiruan.";-
+1708030601;Animasi Komputer;2;Ganjil;Studi mengenai pendalaman lanjut dari desain komputasi grafik dan media.;"Animasi 2D dan 3D, Dasar desain grafis.";"Autodesk 3DMax, Autodesk Maya"
+1708030603;Computer Vision;2;Ganjil;Studi tentang ilmu komputer yang dimana dapa bekerja sesuai penglihatan manusia.;Image processing (pengolahan citra) dan machine vision (visi mesin).;Anaconda Jupyter
+1708030605;Interface dan Peripheral;2;Ganjil;Studi tentang pengembangan penghubung suatu perangkat komputer dengan komputer yang lain.;"Penggunaan Arduino, Dasar mikrokontroler dan sensorik.";-
+1708030601;Perancangan dan Manajemen Jaringan;2;Ganjil;Studi tentang pengaturan cakupan wilayah pada penggunaan perangkat jaringan.;"Standar OSI Model dan IEEE 802, Perancangan dan administrasi jaringan, Simple network management protocol.";"GNS3, Cisco Packet Tracer"
+1708030603;Pemrograman Jaringan;2;Ganjil;Studi tentang pemrograman dan perawatan pada perangkat jaringan.;"Pengantar jaringan, Pemrograman HTTP, Stream I/O, Komunikasi antar objek.";NS2
+;Sistem Komunikasi Gelombang Mikro;2;Ganjil;Studi mengenai pemahaman lanjut pada penggunaan gelombang mikro kontroler.;"Fungsi sistem gelombang mikro, Prinsip kerja dan parameter.";-
+;Transmisi dan Saluran Informasi;2;Ganjil;Studi tentang pemahaman dan analisa pada grafik protokol jaringan.;"Pemrosesan sinyal untuk komunikasi radio digital, Jalur gelombang mikro.";Wireshark
+1708030617;Sistem Penunjang Keputusan;2;Ganjil;Studi tentang pengambilan keputusan pada suatu kasus berbasis teknologi informasi.;Teknik – teknik pada sistem pendukung keputusan.;-
+;Text Mining;2;Ganjil;Studi tentang dasar – dasar proses ekstraksi pola pada sejumlah sumber data tak terstruktur.;"konsep dan teknik data mining, text categorization dan  text clustering.";-
+;Pengantar Robotika;2;Ganjil;Studi mengenai pengantar alat dan pemrograman robotika.;"Pembuatan robot, Jenis - jenis robot.";-
+;Deep Learning;2;Ganjil;Studi tentang pendalaman rangkaian metode jaringan syaraf tiruan dan pola dari suatu data.;"Artificial Neural Network, Regresi dan Klasifikasi.";-

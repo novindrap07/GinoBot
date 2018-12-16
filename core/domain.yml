@@ -1,0 +1,72 @@
+intents:
+    - greeting
+    - tanya_jurusan
+    - tanya_matkul
+    - hasil
+    - fallback
+
+entities:
+    - jurusan
+    - name
+    - matkul
+    - kode_matkul
+    - sks
+    - semester
+    - studi_matkul
+    - topik_matkul
+    - software_matkul
+    
+    
+slots:
+    name:
+        type: text
+    jurusan:
+        type: categorical
+        values:
+            - Informatika
+            - Sistem Informasi
+    matkul:
+        type: text
+    kode_matkul:
+        type: text
+    sks:
+        type: text
+    semester:
+        type: text
+    studi_matkul:
+        type: text
+    topik_matkul:
+        type: text
+    software_matkul:
+        type: text
+        
+templates:
+    utter_greeting:
+    - text: "Hai {name}!"
+    utter_tanya_jurusan:
+    - text: "Saya GinoBot. Saya bisa membantu dalam pencarian informasi mata kuliah yang ada di Fakultas Teknologi Komunikasi dan Informatika, Universitas Nasional. Silahkan pilih jurusan / program studi yang ada ambil saat ini."
+    utter_tanya_matkul:
+    - text: "Terima kasih! Sekarang anda bisa mencari informasi mata kuliah yang anda ingin cari dengan mengetik program mata kuliah tersebut."
+    utter_restart:
+    - text: "Apakah anda ingin mencari informasi mata kuliah yang lain? (Ketik Iyaa / Tidak)"
+    utter_hasil:
+    - text : "Kode Matakuliah : {kode_matkul}, Matakuliah : {matkul}, SKS : {sks}, Semester : {semester}, Studi Matakuliah : {studi_matkul}, Topik Matakuliah : {topik_matkul}, Software Matakuliah : {topik_matkul}."
+    utter_pilih_si:
+    - text: "Anda memilih jurusan Sistem Informasi"
+    utter_pilih_ti:
+    - text: "Anda memilih jurusan Informatika"
+    utter_fallback:
+    - text: "Maaf, informasi yang ada cari salah atau tidak ada..."
+
+actions:
+    - utter_greeting
+    - utter_tanya_jurusan
+    - utter_tanya_matkul
+    - utter_restart
+    - utter_pilih_si
+    - utter_pilih_ti
+    - utter_fallback
+    - utter_again
+    - action_jurusan
+    - action_restart
+    - action_fallback
