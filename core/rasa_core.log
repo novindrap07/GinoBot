@@ -1,0 +1,1120 @@
+Rasa process starting
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_fallback'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             OPTIONS, GET, HEAD             /static/[filename]
+custom_webhook_CmdlineInput.health                 OPTIONS, GET, HEAD             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                OPTIONS, POST                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             GET, OPTIONS, HEAD             /static/[filename]
+custom_webhook_CmdlineInput.health                 GET, OPTIONS, HEAD             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                POST, OPTIONS                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message 'hai' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 3, 'value': 'hai', 'entity': 'matkul', 'confidence': 0.3975595271061013, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 3 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: hai
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'slot_matkul_0': 1.0, 'entity_matkul': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'stop' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 4, 'value': 'stop', 'entity': 'matkul', 'confidence': 0.38785709555230696, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 8 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: stop
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'slot_matkul_0': 1.0, 'entity_matkul': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             GET, HEAD, OPTIONS             /static/[filename]
+custom_webhook_CmdlineInput.health                 GET, HEAD, OPTIONS             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                OPTIONS, POST                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message 'Hai' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 3, 'value': 'Hai', 'entity': 'matkul', 'confidence': 0.6972219869580972, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 3 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: Hai
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'slot_matkul_0': 1.0, 'entity_matkul': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'saya mencari' with intent '{'name': None, 'confidence': 0.0}' and entities '[]'
+Logged UserUtterance - tracker now has 7 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/greeting' with intent '{'name': 'greeting', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 11 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'intent_greeting': 1.0, 'prev_action_listen': 1.0}]
+There is a memorised next action '2'
+Predicted next action using policy_0_MemoizationPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/greet' with intent '{'name': 'greet', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 15 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'intent_greet': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_greet' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             GET, OPTIONS, HEAD             /static/[filename]
+custom_webhook_CmdlineInput.health                 GET, OPTIONS, HEAD             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                OPTIONS, POST                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message 'Hai' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 3, 'value': 'Hai', 'entity': 'matkul', 'confidence': 0.6972219869580972, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 3 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: Hai
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'entity_matkul': 1.0, 'slot_matkul_0': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/greeting' with intent '{'name': 'greeting', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 7 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}]
+There is a memorised next action '4'
+Predicted next action using policy_0_MemoizationPolicy
+Predicted next action 'utter_greeting' with prob 1.00.
+Action 'utter_greeting' ended with events '[]'
+Bot utterance 'BotUttered(text: Hai!None, data: {
+  "elements": null,
+  "buttons": null,
+  "attachment": null
+})'
+Current tracker state [None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}, {'prev_utter_greeting': 1.0, 'intent_greeting': 1.0}]
+There is a memorised next action '2'
+Predicted next action using policy_0_MemoizationPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/tanya_jurusan' with intent '{'name': 'tanya_jurusan', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 13 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_tanya_jurusan': 1.0}]
+There is no memorised next action
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'hai' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 3, 'value': 'hai', 'entity': 'matkul', 'confidence': 0.3975595271061013, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 18 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: hai
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'entity_matkul': 1.0, 'slot_matkul_0': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/greet' with intent '{'name': 'greet', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 22 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_greet': 1.0}]
+There is no memorised next action
+Feature 'intent_greet' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/greeting' with intent '{'name': 'greeting', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 26 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	name: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}]
+There is a memorised next action '4'
+Predicted next action using policy_0_MemoizationPolicy
+Predicted next action 'utter_greeting' with prob 1.00.
+Action 'utter_greeting' ended with events '[]'
+Bot utterance 'BotUttered(text: Hai!None, data: {
+  "elements": null,
+  "buttons": null,
+  "attachment": null
+})'
+Current tracker state [None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}, {'prev_utter_greeting': 1.0, 'intent_greeting': 1.0}]
+There is a memorised next action '2'
+Predicted next action using policy_0_MemoizationPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             OPTIONS, HEAD, GET             /static/[filename]
+custom_webhook_CmdlineInput.health                 OPTIONS, HEAD, GET             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                OPTIONS, POST                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message '/greet' with intent '{'name': 'greet', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 2 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_greet': 1.0}]
+There is no memorised next action
+Feature 'intent_greet' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/greeting' with intent '{'name': 'greeting', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 6 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}]
+There is no memorised next action
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/start' with intent '{'name': 'start', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 10 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_start': 1.0}]
+There is no memorised next action
+Feature 'intent_start' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'hai' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 3, 'value': 'hai', 'entity': 'matkul', 'confidence': 0.3975595271061013, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 15 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: hai
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'entity_matkul': 1.0, 'slot_matkul_0': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message '/greeting' with intent '{'name': 'greeting', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 19 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}]
+There is no memorised next action
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'saya dari sistem informasi' with intent '{'name': 'jurusan', 'confidence': 0.8811812996864319}' and entities '[{'start': 10, 'end': 26, 'value': 'sistem informasi', 'entity': 'jurusan', 'confidence': 0.876480932942994, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 24 events
+Current slot values: 
+	jurusan: sistem informasi
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'intent_jurusan': 1.0, 'prev_action_listen': 1.0, 'slot_jurusan_1': 1.0, 'entity_jurusan': 1.0}]
+There is no memorised next action
+Feature 'intent_jurusan' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             OPTIONS, HEAD, GET             /static/[filename]
+custom_webhook_CmdlineInput.health                 OPTIONS, HEAD, GET             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                POST, OPTIONS                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message '/greeting' with intent '{'name': 'greeting', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 2 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}]
+There is a memorised next action '13'
+Predicted next action using policy_0_MemoizationPolicy
+Predicted next action 'action_greeting' with prob 1.00.
+Encountered an exception while running action 'action_greeting'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_greeting' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "/home/novindra/anaconda3/lib/python3.6/site-packages/rasa_core/processor.py", line 351, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "/home/novindra/anaconda3/lib/python3.6/site-packages/rasa_core/actions/action.py", line 321, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_greeting' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Action 'action_greeting' ended with events '[]'
+Current tracker state [None, None, {}, {'prev_action_listen': 1.0, 'intent_greeting': 1.0}, {'intent_greeting': 1.0, 'prev_action_greeting': 1.0}]
+There is a memorised next action '2'
+Predicted next action using policy_0_MemoizationPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'hai' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 3, 'value': 'hai', 'entity': 'matkul', 'confidence': 0.3975595271061013, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 8 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: hai
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'slot_matkul_0': 1.0, 'entity_matkul': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             OPTIONS, GET, HEAD             /static/[filename]
+custom_webhook_CmdlineInput.health                 OPTIONS, GET, HEAD             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                OPTIONS, POST                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message 'tugas akhir' with intent '{'name': 'matkul', 'confidence': 0.9770931005477905}' and entities '[]'
+Logged UserUtterance - tracker now has 2 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'intent_matkul': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_matkul' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'Praktikum Pemrograman Web' with intent '{'name': 'matkul', 'confidence': 0.975575864315033}' and entities '[{'start': 0, 'end': 25, 'value': 'Praktikum Pemrograman Web', 'entity': 'matkul', 'confidence': 0.9954805346566261, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 7 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	matkul: Praktikum Pemrograman Web
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'entity_matkul': 1.0, 'intent_matkul': 1.0, 'slot_matkul_0': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_matkul' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             OPTIONS, GET, HEAD             /static/[filename]
+custom_webhook_CmdlineInput.health                 OPTIONS, GET, HEAD             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                POST, OPTIONS                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message 'saya dari informatika' with intent '{'name': 'jurusan', 'confidence': 0.9260756373405457}' and entities '[{'start': 10, 'end': 21, 'value': 'informatika', 'entity': 'jurusan', 'confidence': 0.8928546739556915, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 3 events
+Current slot values: 
+	jurusan: informatika
+	kode_matkul: None
+	matkul: None
+	semester: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'slot_jurusan_0': 1.0, 'prev_action_listen': 1.0, 'intent_jurusan': 1.0, 'entity_jurusan': 1.0}]
+There is no memorised next action
+Feature 'intent_jurusan' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             HEAD, GET, OPTIONS             /static/[filename]
+custom_webhook_CmdlineInput.health                 HEAD, GET, OPTIONS             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                POST, OPTIONS                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Creating a new tracker for id 'default'.
+Received user message 'hai' with intent '{'name': None, 'confidence': 0.0}' and entities '[{'start': 0, 'end': 3, 'value': 'hai', 'entity': 'matkul', 'confidence': 0.3975595271061013, 'extractor': 'ner_crf'}]'
+Logged UserUtterance - tracker now has 3 events
+Current slot values: 
+	jurusan: None
+	kode_matkul: None
+	mahasiswa_matkul: None
+	matkul: hai
+	referensi_matkul: None
+	semester: None
+	sesi_matkul: None
+	sks: None
+	software_matkul: None
+	studi_matkul: None
+	topik_matkul: None
+Current tracker state [None, None, None, {}, {'entity_matkul': 1.0, 'prev_action_listen': 1.0, 'slot_matkul_0': 1.0}]
+There is no memorised next action
+NLU confidence 0.0 is lower than NLU threshold 0.3. Predicting fallback action: action_default_fallback
+Predicted next action using policy_2_FallbackPolicy
+Predicted next action 'action_default_fallback' with prob 1.00.
+Action 'action_default_fallback' ended with events '['UserUtteranceReverted()']'
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             HEAD, OPTIONS, GET             /static/[filename]
+custom_webhook_CmdlineInput.health                 HEAD, OPTIONS, GET             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                POST, OPTIONS                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/default/model_ginobot/intent_classifier_tensorflow_embedding.ckpt
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Available web server routes: 
+static                                             HEAD, GET, OPTIONS             /static/[filename]
+custom_webhook_CmdlineInput.health                 HEAD, GET, OPTIONS             /webhooks/rest/
+custom_webhook_CmdlineInput.receive                POST, OPTIONS                  /webhooks/rest/webhook
+Rasa Core server is up and running on http://localhost:5005
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/home/novindra/anaconda3/lib/python3.6/site-packages/pykwalify/core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
