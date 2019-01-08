@@ -1,0 +1,141 @@
+%YAML 1.1
+---
+action_factory: null
+action_names:
+- utter_greeting
+- utter_jurusan
+- utter_matkul
+- utter_bye
+- utter_salah
+- utter_pilih_si
+- utter_pilih_ti
+- action_info_matkul
+- action_jurusan
+- action_matkul
+actions:
+- utter_greeting
+- utter_jurusan
+- utter_matkul
+- utter_bye
+- utter_salah
+- utter_pilih_si
+- utter_pilih_ti
+- action_info_matkul
+- action_jurusan
+- action_matkul
+config:
+  store_entities_as_slots: true
+entities:
+- matkul
+- jurusan
+- info_matkul
+intents:
+- greeting:
+    use_entities: true
+- jurusan:
+    use_entities: true
+- matkul_si:
+    use_entities: true
+- matkul_ti:
+    use_entities: true
+- info_matkul:
+    use_entities: true
+- salah_data:
+    use_entities: true
+slots:
+  info_matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  jurusan:
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - sistem informasi
+    - informatika
+  matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  action_info_matkul:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: I
+  - text: n
+  - text: f
+  - text: o
+  - text: M
+  - text: a
+  - text: t
+  - text: k
+  - text: u
+  - text: l
+  action_jurusan:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: J
+  - text: u
+  - text: r
+  - text: u
+  - text: s
+  - text: a
+  - text: n
+  action_matkul:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: M
+  - text: a
+  - text: t
+  - text: k
+  - text: u
+  - text: l
+  utter_bye:
+  - text: Terima Kasih...
+  utter_greeting:
+  - text: Hey! Selamat datang. Saya GinoBot. Saya adalah chatbot assistant untuk pencarian
+      informasi mata kuliah yang ada di FTKI UNAS.
+  utter_jurusan:
+  - text: Sebelumnya anda dari jurusan apa??
+  utter_matkul:
+  - text: Silahkan cari informasi mata kuliah yang ingin anda cari.
+  utter_pilih_si:
+  - text: Anda memilih jurusan sistem informasi
+  utter_pilih_ti:
+  - text: Anda memilih jurusan informatika
+  utter_salah:
+  - text: Maaf, data salah atau tidak ada...
