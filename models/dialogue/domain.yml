@@ -1,91 +1,141 @@
 %YAML 1.1
 ---
-actions:
+action_factory: null
+action_names:
 - utter_greeting
-- utter_tanya_jurusan
-- utter_tanya_matkul
-- utter_restart
+- utter_jurusan
+- utter_matkul
+- utter_bye
+- utter_salah
 - utter_pilih_si
 - utter_pilih_ti
-- utter_fallback
-- utter_again
+- action_info_matkul
 - action_jurusan
-- action_restart
-- action_fallback
+- action_matkul
+actions:
+- utter_greeting
+- utter_jurusan
+- utter_matkul
+- utter_bye
+- utter_salah
+- utter_pilih_si
+- utter_pilih_ti
+- action_info_matkul
+- action_jurusan
+- action_matkul
 config:
   store_entities_as_slots: true
 entities:
-- jurusan
-- name
 - matkul
-- kode_matkul
-- sks
-- semester
-- studi_matkul
-- topik_matkul
-- software_matkul
+- jurusan
+- info_matkul
 intents:
 - greeting:
     use_entities: true
-- tanya_jurusan:
+- jurusan:
     use_entities: true
-- tanya_matkul:
+- matkul_si:
     use_entities: true
-- hasil:
+- matkul_ti:
     use_entities: true
-- fallback:
+- info_matkul:
+    use_entities: true
+- salah_data:
     use_entities: true
 slots:
+  info_matkul:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
   jurusan:
     initial_value: null
     type: rasa_core.slots.CategoricalSlot
     values:
-    - informatika
     - sistem informasi
-  kode_matkul:
-    initial_value: null
-    type: rasa_core.slots.TextSlot
+    - informatika
   matkul:
     initial_value: null
     type: rasa_core.slots.TextSlot
-  name:
-    initial_value: null
-    type: rasa_core.slots.TextSlot
-  semester:
-    initial_value: null
-    type: rasa_core.slots.TextSlot
-  sks:
-    initial_value: null
-    type: rasa_core.slots.TextSlot
-  software_matkul:
-    initial_value: null
-    type: rasa_core.slots.TextSlot
-  studi_matkul:
-    initial_value: null
-    type: rasa_core.slots.TextSlot
-  topik_matkul:
-    initial_value: null
-    type: rasa_core.slots.TextSlot
 templates:
-  utter_fallback:
-  - text: Maaf, informasi yang ada cari salah atau tidak ada...
+  action_info_matkul:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: I
+  - text: n
+  - text: f
+  - text: o
+  - text: M
+  - text: a
+  - text: t
+  - text: k
+  - text: u
+  - text: l
+  action_jurusan:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: J
+  - text: u
+  - text: r
+  - text: u
+  - text: s
+  - text: a
+  - text: n
+  action_matkul:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: M
+  - text: a
+  - text: t
+  - text: k
+  - text: u
+  - text: l
+  utter_bye:
+  - text: Terima Kasih...
   utter_greeting:
-  - text: Hai {name}!
-  utter_hasil:
-  - text: 'Kode Matakuliah : {kode_matkul}, Matakuliah : {matkul}, SKS : {sks}, Semester
-      : {semester}, Studi Matakuliah : {studi_matkul}, Topik Matakuliah : {topik_matkul},
-      Software Matakuliah : {topik_matkul}.'
+  - text: Hey! Selamat datang. Saya GinoBot. Saya adalah chatbot assistant untuk pencarian
+      informasi mata kuliah yang ada di FTKI UNAS.
+  utter_jurusan:
+  - text: Sebelumnya anda dari jurusan apa??
+  utter_matkul:
+  - text: Silahkan cari informasi mata kuliah yang ingin anda cari.
   utter_pilih_si:
-  - text: Anda memilih jurusan Sistem Informasi
+  - text: Anda memilih jurusan sistem informasi
   utter_pilih_ti:
-  - text: Anda memilih jurusan Informatika
-  utter_restart:
-  - text: Apakah anda ingin mencari informasi mata kuliah yang lain? (Ketik Iyaa /
-      Tidak)
-  utter_tanya_jurusan:
-  - text: Saya GinoBot. Saya bisa membantu dalam pencarian informasi mata kuliah yang
-      ada di Fakultas Teknologi Komunikasi dan Informatika, Universitas Nasional.
-      Silahkan pilih jurusan / program studi yang ada ambil saat ini.
-  utter_tanya_matkul:
-  - text: Terima kasih! Sekarang anda bisa mencari informasi mata kuliah yang anda
-      ingin cari dengan mengetik program mata kuliah tersebut.
+  - text: Anda memilih jurusan informatika
+  utter_salah:
+  - text: Maaf, data salah atau tidak ada...

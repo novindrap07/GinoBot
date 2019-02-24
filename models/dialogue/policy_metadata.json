@@ -2,29 +2,17 @@
   "action_fingerprints": {
     "action_listen": {
       "slots": [
-        "semester",
-        "software_matkul",
-        "sks",
-        "matkul",
-        "studi_matkul",
-        "topik_matkul",
-        "kode_matkul"
-      ]
-    },
-    "action_jurusan": {
-      "slots": [
         "jurusan"
       ]
     },
-    "action_restart": {
+    "utter_salah": {
       "slots": []
     },
-    "utter_fallback": {
+    "utter_bye": {
       "slots": []
     }
   },
-  "rasa_core": "0.11.7",
-  "python": "3.6.5",
+  "rasa_core": "0.10.4",
   "max_histories": [
     5,
     5,
