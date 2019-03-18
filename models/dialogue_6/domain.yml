@@ -1,0 +1,172 @@
+%YAML 1.1
+---
+actions:
+- utter_greeting
+- utter_jurusan
+- utter_matkul
+- utter_bye
+- utter_salah
+- utter_pilih_si
+- utter_pilih_ti
+- utter_pkn
+- utter_agama
+- utter_ddp
+- utter_so
+- action_infomatkul
+- action_jurusan
+- action_matkul
+config:
+  store_entities_as_slots: true
+entities:
+- matkul
+- jurusan
+- info_matkul
+forms: []
+intents:
+- greeting:
+    use_entities: true
+- jurusan:
+    use_entities: true
+- matkul_si:
+    use_entities: true
+- matkul_ti:
+    use_entities: true
+- info_matkul:
+    use_entities: true
+- salah_data:
+    use_entities: true
+slots:
+  info_matkul:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.ListSlot
+  jurusan:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - sistem informasi
+    - informatika
+  matkul:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - pendidikan agama
+    - dasar dasar pemrograman
+    - pendidikan kewarnegaraan
+    - sistem operasi
+templates:
+  action_infomatkul:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: I
+  - text: n
+  - text: f
+  - text: o
+  - text: m
+  - text: a
+  - text: t
+  - text: k
+  - text: u
+  - text: l
+  action_jurusan:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: J
+  - text: u
+  - text: r
+  - text: u
+  - text: s
+  - text: a
+  - text: n
+  action_matkul:
+  - text: a
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: s
+  - text: .
+  - text: A
+  - text: c
+  - text: t
+  - text: i
+  - text: o
+  - text: n
+  - text: M
+  - text: a
+  - text: t
+  - text: k
+  - text: u
+  - text: l
+  utter_agama:
+  - text: 'kode mata kuliah : 1708020303, mata kuliah : Pendidikan Agama, sks : 2,
+      semester : ganjil, informasi mata kuliah : studi mengenai ilmu kerohanian dimana
+      dapat membangun keimanan dan ketaqwaan kepada tuhan yang maha esa., topik mata
+      kuliah : pengantar rukun iman dan islam, pengabdian masyarakat., software :
+      -, sesi mata kuliah : 11.40 - 13.20, mahasiswa mata kuliah : rikza, salma, tiara,
+      umairah, vina, wildan, xavier, yoga, zaskia., referensi mata kuliah : -'
+  utter_bye:
+  - text: Terima Kasih...
+  utter_ddp:
+  - text: 'kode mata kuliah : 1708020203, mata kuliah : dasar-dasar pemrograman i,
+      sks : 2, semester : ganjil, informasi mata kuliah : studi tentang dasar pada
+      pemrograman dan logika pemrograman., topik mata kuliah : dasar logika pemrograman,
+      bahasa pemrograman c++, software : -, sesi mata kuliah : 17.00 - 18.30, mahasiswa
+      mata kuliah : rikza, salma, tiara, umairah, vina, wildan, xavier, yoga, zaskia.,
+      referensi mata kuliah : https://drive.google.com/open?id=1rkxygthotentcfcnw-toksqfjfo78dlt'
+  utter_greeting:
+  - text: Hey! Selamat datang. Saya GinoBot. Saya adalah chatbot assistant untuk pencarian
+      informasi mata kuliah yang ada di FTKI UNAS.
+  utter_jurusan:
+  - text: Sebelumnya anda dari jurusan apa??
+  utter_matkul:
+  - text: Silahkan cari informasi mata kuliah yang ingin anda cari.
+  utter_pilih_si:
+  - text: Anda memilih jurusan sistem informasi
+  utter_pilih_ti:
+  - text: Anda memilih jurusan informatika
+  utter_pkn:
+  - text: 'kode mata kuliah : 1700000101, mata kuliah : pendidikan kewarnegaraan,
+      sks : 2, semester: ganjil, informasi mata kuliah : sebuah ilmu atau studi mengenai
+      tugas dan kewajiban pemerintahan serta hak dan kewajiban seorang warga negara.,
+      topik mata kuliah : hak dan kewajiban warga negaranya, jati diri atau identitas
+      bangsa dan negara, konstitusi negara., software : -, sesi mata kuliah :  13.30
+      - 15.10, mahasiswa mata kuliah :  alisa, berry, cho, dini, elvin, firman, gino,
+      hilma., referensi mata kuliah : -'
+  utter_salah:
+  - text: Maaf, data salah atau tidak ada...
+  utter_so:
+  - text: 'kode mata kuliah : 1708020348, mata kuliah: sistem operasi, sks : 2, semester:
+      ganjil, informasi mata kuliah : studi tentang perangkat lunak operasi pada suatu
+      sistem dimana mengetahui dasar dan perintah pada sistem operasi., topik mata
+      kuliah : dasar dan teori pada sistem operasi, sinkronisasi, jadwal proses.,
+      software : virtual box, linux os, sesi mata kuliah : 11.40 - 13.20, mahasiswa
+      mata kuliah : rikza, salma, tiara, umairah, vina, wildan, xavier, yoga, zaskia.,
+      referensi mata kuliah : https://drive.google.com/open?id=1crm1sklxxfbvpuki0oyiorjisbkbmpmz'

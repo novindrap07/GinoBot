@@ -1,3 +1,0 @@
-    python -m rasa_nlu.evaluate \
-        --data train/data/training_dataset_baru.json \
-        --model models/nlu/default/model_ginobot

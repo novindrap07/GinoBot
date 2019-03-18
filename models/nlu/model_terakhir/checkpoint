@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/novindra/Documents/GinoBot/nlp/training/model/../../../models/nlu/default/model_ginobot_palingbaru/default/model_20190224-111433/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/novindra/Documents/GinoBot/nlp/training/model/../../../models/nlu/default/model_ginobot_palingbaru/default/model_20190224-111433/intent_classifier_tensorflow_embedding.ckpt"

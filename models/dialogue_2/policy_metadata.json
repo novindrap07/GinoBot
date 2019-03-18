@@ -1,0 +1,33 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "jurusan"
+      ]
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "utter_salah": {
+      "slots": []
+    }
+  },
+  "python": "3.7.1",
+  "max_histories": [
+    5,
+    null,
+    5,
+    2
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.form_policy.FormPolicy"
+  ],
+  "trained_at": "20190228-172811",
+  "rasa_core": "0.13.2",
+  "tensorflow": "1.13.0-rc2",
+  "sklearn": "0.20.2"
+}
